@@ -1,0 +1,14 @@
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\DIO.Series.AssemblyInfo.cs
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\bin\Debug\net7.0\DIO.Series.exe
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\bin\Debug\net7.0\DIO.Series.deps.json
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\bin\Debug\net7.0\DIO.Series.runtimeconfig.json
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\bin\Debug\net7.0\DIO.Series.dll
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\bin\Debug\net7.0\DIO.Series.pdb
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\DIO.Series.dll
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\refint\DIO.Series.dll
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\DIO.Series.pdb
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\DIO.Series.genruntimeconfig.cache
+C:\Users\luanz\coisas\estudos\programas\csharp\DIO.Series\obj\Debug\net7.0\ref\DIO.Series.dll
